@@ -1,6 +1,7 @@
 usethis::use_git_config(
-  user.name = "ccbcanpstudent",
-  user.email = "ccbcanpstudent@gmail.com",
+  user.name = "kellypurdy15",
+  user.email = "pur906763@ccbcmd.edu",
 )
 
-usethis::create_github_token()
+usethis::create_github_token(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)
+
