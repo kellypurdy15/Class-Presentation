@@ -4,11 +4,21 @@ project:
 
 website:
   title: "Gas Exchange at the Alveoli"
+  title: "Class Presentation"
+  description: "A blog built with Quarto"
+  site-url: https://kellypurdy15.github.io/Class-Presentation
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/kellypurdy15/Class-Presentation
+
+date-format: X
+date: last-modified
 
 format:
   html:
     theme: simple
-
 
 
 

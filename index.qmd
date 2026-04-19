@@ -1,28 +1,120 @@
 ---
-title: "Tutorials"
+title: "Gas Exchange at the Alveoli"
+author: "Kelly Purdy"
 date: ""
-listing:
-  contents: 
-    - posts
-    - "!posts/presentation/demo"
-  feed: true
-  sort: "date desc"
-  type: default
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
 format:
-  html:
-    include-after-body: list.html
+  revealjs:
+    theme: simple
+    transition: fade
+    center: true
+    slide-number: false
 ---
 
-#### Attributions {.appendix}
+## Gas Exchange at the Alveoli  
+### Anatomy & Physiology
 
-Artwork from ["Hello, Quarto"](https://mine.quarto.pub/hello-quarto/) keynote by [Mine Çetinkaya-Rundel](https://mine-cr.com/) and [Julia Stewart Lowndes](https://jules32.github.io/), presented at RStudio Conference 2022. Illustrated by [Allison Horst](https://allisonhorst.com).
+::: notes
+Today I will explain how gas exchange occurs in the lungs, specifically at the alveoli.
+:::
 
-[![A schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.](posts/manuscript/images/quar.png)](https://allisonhorst.com/cetinkaya-rundel-lowndes-quarto-keynote)
+---
 
-[![Two penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo "moon" in the sky, while the other penguin looks on.](posts/presentation/images/pres.png)](https://allisonhorst.com/cetinkaya-rundel-lowndes-quarto-keynote)
+## What Are Alveoli?
 
-For more from Allison, see her [website](https://allisonhorst.com) and [GitHub](https://github.com/allisonhorst).
+::: fragment
+- Microscopic air sacs in the lungs
+:::
+::: fragment
+- Located at the ends of bronchioles
+:::
+::: fragment
+- Primary site of gas exchange
+:::
+
+![](https://9b6a32161ce9436fb335be90283dfa18.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FPicture+1.jpeg)
+
+:::
+
+::: notes
+Alveoli are tiny air sacs found at the ends of bronchioles.
+They are the main location where oxygen and carbon dioxide are exchanged between air and blood.
+:::
+
+---
+
+## Structure Supports Function
+
+::: fragment
+- Walls are one cell thick
+:::
+::: fragment
+- Surrounded by capillaries
+:::
+::: fragment
+- Large surface area
+:::
+
+::: notes
+The structure of alveoli makes gas exchange efficient.
+Thin walls reduce diffusion distance, and capillaries bring blood very close to the air.
+:::
+
+---
+
+## How Gas Exchange Occurs
+
+![](https://9b6a32161ce9436fb335be90283dfa18.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FPicture+2.jpeg)
+
+::: fragment
+- Oxygen diffuses into the blood
+:::
+::: fragment
+- Carbon dioxide diffuses into the alveoli
+:::
+::: fragment
+- Movement occurs by diffusion
+:::
+
+::: notes
+Oxygen moves from the alveoli into the blood because its concentration is higher in the alveoli.
+Carbon dioxide moves from the blood into the alveoli.
+This process happens by diffusion.
+:::
+
+---
+
+## Why Alveoli Are Efficient
+
+::: fragment
+- Short diffusion distance
+:::
+::: fragment
+- Moist surface helps gases dissolve
+:::
+::: fragment
+- Constant blood flow maintains gradients
+:::
+
+::: notes
+These features allow gas exchange to happen quickly and continuously.
+Blood flow maintains concentration gradients so diffusion can keep occurring.
+:::
+
+---
+
+## Summary
+
+::: fragment
+- Alveoli are the functional units of the lungs
+:::
+::: fragment
+- Specialized anatomy supports diffusion
+:::
+::: fragment
+- Gas exchange is essential for cellular respiration
+:::
+
+::: notes
+In summary, alveoli are specialized structures that allow oxygen to enter the bloodstream and carbon dioxide to be removed.
+This process is essential for cellular respiration and life.
+:::
