@@ -3,9 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Gas Exchange at the Alveoli"
-  title: "Class Presentation"
-  description: "A blog built with Quarto"
+  title: Class-Presentation
+  description:"Gas Exchange at the Alveoli"
   site-url: https://kellypurdy15.github.io/Class-Presentation
   navbar:
     right:
