@@ -3,14 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: Class-Presentation
-  description:"Gas Exchange at the Alveoli"
+  title: "Class Presentation"
+  description: "Gas Exchange at the Alveoli"
   site-url: https://kellypurdy15.github.io/Class-Presentation
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/kellypurdy15/Class-Presentation
+``
 
 date-format: X
 date: last-modified
