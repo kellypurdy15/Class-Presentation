@@ -11,10 +11,6 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/kellypurdy15/Class-Presentation
-``
-
-date-format: X
-date: last-modified
 
 format:
   html:
