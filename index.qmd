@@ -31,7 +31,7 @@ Today I will explain how gas exchange occurs in the lungs, specifically at the a
 - Primary site of gas exchange
 :::
 
-![](https://9b6a32161ce9436fb335be90283dfa18.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FPicture+1.jpeg)
+![](picture1.jpeg)
 
 :::
 
@@ -63,7 +63,7 @@ Thin walls reduce diffusion distance, and capillaries bring blood very close to 
 
 ## How Gas Exchange Occurs
 
-![](https://9b6a32161ce9436fb335be90283dfa18.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FPicture+2.jpeg)
+![](picture2.jpeg)
 
 ::: fragment
 - Oxygen diffuses into the blood
